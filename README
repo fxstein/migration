@@ -1,0 +1,4 @@
+Simple set of migration helpers used to convert the Kunena svn on JoomlaCode.org to github.
+
+author-map contains the svn to github user conversion
+clone.sh is a simple helper to move a particular sub-project (e.g. modules and plugins) into its own dedicated github repo.
